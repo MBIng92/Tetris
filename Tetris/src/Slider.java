@@ -48,10 +48,10 @@ public class Slider {
 	public void moveSlider() {
 		positionButtonY = processing.mouseY;
 		float value = (-positionButtonY + posY + sizeY / 2) / sizeY * (maxValue - minValue) + minValue;
-		if (value > 255) {
-			this.value = 255;
-		} else if (value < 0) {
-			this.value = 0;
+		if (value > maxValue) {
+			this.value = maxValue;
+		} else if (value < minValue) {
+			this.value = minValue;
 		} else {
 			this.value = (int) value;
 		}
