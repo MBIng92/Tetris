@@ -20,12 +20,15 @@ with R, P and S you can restart, pause and start your game.
 To select your username, go to settings -> name and click in the namefield (default: Unknown). After clicking, write
 your name and confirm with ENTER.
 
-Under Settings -> Color you can change the background color with RGB coltroller. Under Settings -> General
+Under Settings -> Color you can change the background color with the RGB controllers (slider). Under Settings -> General
 you can change the screen size and the start and maximum level.
 
-When you have detect any bugs, please contact me.
+If you detect any bugs, please contact me.
 
-After importing the file-system "Tetris" into your Project, you have to add the "core.jar" to your Build Path!
+For importing the Tetris game in your project, please consider the following.
+After importing the file-system "Tetris" into your Project, you have to add the "core.jar" to your Build Path! You are notallowed to change the "core.jar" file.
+Otherwise you are welcome to add new functions.
+
 The Tetris.jar file is the actual game.
 
 Have fun!
