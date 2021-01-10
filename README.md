@@ -26,7 +26,7 @@ you can change the screen size and the start and maximum level.
 If you detect any bugs, please contact me.
 
 For importing the Tetris game in your project, please consider the following.
-After importing the file-system "Tetris" into your Project, you have to add the "core.jar" to your Build Path! You are notallowed to change the "core.jar" file.
+After importing the file-system "Tetris" into your Project, you have to add the "core.jar" to your Build Path! You are not allowed to change the "core.jar" file.
 Otherwise you are welcome to add new functions.
 
 The Tetris.jar file is the actual game.
