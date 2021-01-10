@@ -26,3 +26,5 @@ you can change the screen size and the start and maximum level.
 When you have detect any bugs, please contact me.
 
 Have fun!
+
+After importing the file-system "Tetris" into your Project, you have to add the "core.jar" to your Build Path!
